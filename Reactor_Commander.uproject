@@ -36,6 +36,10 @@
 		{
 			"Name": "PerformanceMonitor",
 			"Enabled": true
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	]
 }
